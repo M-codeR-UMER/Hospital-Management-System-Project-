@@ -1,4 +1,4 @@
-# 🏥 Hospital Management System (C++, OOP ,DSA)
+# 🏥 Hospital Management System (C++, OOP, DSA)
 
 This project is a comprehensive **Hospital Management System** built using **C++**, applying core **Object-Oriented Programming (OOP)** and **Data Structures & Algorithms (DSA)** concepts. It simulates a multi-functional hospital environment with features for patient management, staff and doctors, real-time alerting, inventory, appointments, billing, and disease detection.
 
